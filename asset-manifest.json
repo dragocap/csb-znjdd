@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "https://.github.io/csb-znjdd/static/css/main.56763e55.chunk.css",
-    "main.js": "https://.github.io/csb-znjdd/static/js/main.d8f5b46b.chunk.js",
-    "main.js.map": "https://.github.io/csb-znjdd/static/js/main.d8f5b46b.chunk.js.map",
-    "runtime-main.js": "https://.github.io/csb-znjdd/static/js/runtime-main.be5d183f.js",
-    "runtime-main.js.map": "https://.github.io/csb-znjdd/static/js/runtime-main.be5d183f.js.map",
-    "static/js/2.067f095e.chunk.js": "https://.github.io/csb-znjdd/static/js/2.067f095e.chunk.js",
-    "static/js/2.067f095e.chunk.js.map": "https://.github.io/csb-znjdd/static/js/2.067f095e.chunk.js.map",
-    "index.html": "https://.github.io/csb-znjdd/index.html",
-    "static/css/main.56763e55.chunk.css.map": "https://.github.io/csb-znjdd/static/css/main.56763e55.chunk.css.map",
-    "static/js/2.067f095e.chunk.js.LICENSE.txt": "https://.github.io/csb-znjdd/static/js/2.067f095e.chunk.js.LICENSE.txt",
-    "static/media/twitter-logo.d89d9a86.svg": "https://.github.io/csb-znjdd/static/media/twitter-logo.d89d9a86.svg"
+    "main.css": "https://dragocap.github.io/csb-znjdd/static/css/main.56763e55.chunk.css",
+    "main.js": "https://dragocap.github.io/csb-znjdd/static/js/main.27d927fa.chunk.js",
+    "main.js.map": "https://dragocap.github.io/csb-znjdd/static/js/main.27d927fa.chunk.js.map",
+    "runtime-main.js": "https://dragocap.github.io/csb-znjdd/static/js/runtime-main.eda3d21d.js",
+    "runtime-main.js.map": "https://dragocap.github.io/csb-znjdd/static/js/runtime-main.eda3d21d.js.map",
+    "static/js/2.07d8011f.chunk.js": "https://dragocap.github.io/csb-znjdd/static/js/2.07d8011f.chunk.js",
+    "static/js/2.07d8011f.chunk.js.map": "https://dragocap.github.io/csb-znjdd/static/js/2.07d8011f.chunk.js.map",
+    "index.html": "https://dragocap.github.io/csb-znjdd/index.html",
+    "static/css/main.56763e55.chunk.css.map": "https://dragocap.github.io/csb-znjdd/static/css/main.56763e55.chunk.css.map",
+    "static/js/2.07d8011f.chunk.js.LICENSE.txt": "https://dragocap.github.io/csb-znjdd/static/js/2.07d8011f.chunk.js.LICENSE.txt",
+    "static/media/twitter-logo.d89d9a86.svg": "https://dragocap.github.io/csb-znjdd/static/media/twitter-logo.d89d9a86.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.be5d183f.js",
-    "static/js/2.067f095e.chunk.js",
+    "static/js/runtime-main.eda3d21d.js",
+    "static/js/2.07d8011f.chunk.js",
     "static/css/main.56763e55.chunk.css",
-    "static/js/main.d8f5b46b.chunk.js"
+    "static/js/main.27d927fa.chunk.js"
   ]
 }
